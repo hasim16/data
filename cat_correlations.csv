@@ -1,0 +1,82 @@
+var1,var2,corr
+Video Games,Video Games,1.0
+Video Games,Movies and Shows,0.4
+Video Games,Electronics,0.83
+Video Games,Pet Supplies,0.0
+Video Games,Books,0.0
+Video Games,Cell,0.4
+Video Games,Music Instruments,0.31
+Video Games,Automotive,0.3
+Video Games,Fashion,0.0
+Movies and Shows,Video Games,0.4
+Movies and Shows,Movies and Shows,1.0
+Movies and Shows,Electronics,0.44
+Movies and Shows,Pet Supplies,0.0
+Movies and Shows,Books,0.61
+Movies and Shows,Cell,0.22
+Movies and Shows,Music Instruments,0.0
+Movies and Shows,Automotive,0.18
+Movies and Shows,Fashion,0.0
+Electronics,Video Games,0.83
+Electronics,Movies and Shows,0.44
+Electronics,Electronics,1.0
+Electronics,Pet Supplies,0.0
+Electronics,Books,0.32
+Electronics,Cell,0.81
+Electronics,Music Instruments,0.0
+Electronics,Automotive,0.63
+Electronics,Fashion,0.0
+Pet Supplies,Video Games,0.0
+Pet Supplies,Movies and Shows,0.0
+Pet Supplies,Electronics,0.0
+Pet Supplies,Pet Supplies,1.0
+Pet Supplies,Books,0.0
+Pet Supplies,Cell,0.0
+Pet Supplies,Music Instruments,0.0
+Pet Supplies,Automotive,0.0
+Pet Supplies,Fashion,0.0
+Books,Video Games,0.0
+Books,Movies and Shows,0.61
+Books,Electronics,0.32
+Books,Pet Supplies,0.0
+Books,Books,1.0
+Books,Cell,0.0
+Books,Music Instruments,0.51
+Books,Automotive,0.0
+Books,Fashion,0.29
+Cell,Video Games,0.4
+Cell,Movies and Shows,0.22
+Cell,Electronics,0.81
+Cell,Pet Supplies,0.0
+Cell,Books,0.0
+Cell,Cell,1.0
+Cell,Music Instruments,0.0
+Cell,Automotive,0.0
+Cell,Fashion,0.0
+Music Instruments,Video Games,0.31
+Music Instruments,Movies and Shows,0.0
+Music Instruments,Electronics,0.0
+Music Instruments,Pet Supplies,0.0
+Music Instruments,Books,0.51
+Music Instruments,Cell,0.0
+Music Instruments,Music Instruments,1.0
+Music Instruments,Automotive,0.0
+Music Instruments,Fashion,0.0
+Automotive,Video Games,0.3
+Automotive,Movies and Shows,0.18
+Automotive,Electronics,0.63
+Automotive,Pet Supplies,0.0
+Automotive,Books,0.0
+Automotive,Cell,0.0
+Automotive,Music Instruments,0.0
+Automotive,Automotive,1.0
+Automotive,Fashion,0.0
+Fashion,Video Games,0.0
+Fashion,Movies and Shows,0.0
+Fashion,Electronics,0.0
+Fashion,Pet Supplies,0.0
+Fashion,Books,0.29
+Fashion,Cell,0.0
+Fashion,Music Instruments,0.0
+Fashion,Automotive,0.0
+Fashion,Fashion,1.0
